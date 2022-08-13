@@ -1,0 +1,14 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+@import url("bootstrap-icons/font/bootstrap-icons.css");
+.jumbotron{
+    background:url(https://preview.redd.it/iexmgggo95v61.jpg?width=960&crop=smart&auto=webp&s=fe5780b38f86872f1838cc86c31ee5f9746f4611);
+    background-position: 0 -100px;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 0%;
+
+}
+.row img {
+    width: 70%;
+    height: 50%px;
+  }

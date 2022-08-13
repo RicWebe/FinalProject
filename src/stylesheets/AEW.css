@@ -1,0 +1,11 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+@import url("bootstrap-icons/font/bootstrap-icons.css");
+.jumbotron{
+    background:url(https://i.redd.it/m8dj8z3787331.jpg);
+    background-position: 0 -400px;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 10%;
+    
+
+}

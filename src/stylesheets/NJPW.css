@@ -1,0 +1,12 @@
+@import url("bootstrap/dist/css/bootstrap.min.css");
+@import url("bootstrap-icons/font/bootstrap-icons.css");
+.jumbotron{
+    background:url(https://static.wixstatic.com/media/94b54e_bb4d5bd2b1314772923f5899292442d4~mv2.jpg/v1/fill/w_2304,h_1536,al_c,q_90/94b54e_bb4d5bd2b1314772923f5899292442d4~mv2.webp);
+    
+    background-position: 0 -100px;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 5%;
+    
+
+}
